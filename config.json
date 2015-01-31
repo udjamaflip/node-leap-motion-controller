@@ -1,0 +1,5 @@
+{
+	"_setup_comment" : "Setup Philips Hue for connectivity here: http://www.developers.meethue.com/documentation/getting-started // get ip from https://www.meethue.com/api/nupnp",
+	"ip": "192.168.1.45",
+	"username": "leap-motion"
+}
