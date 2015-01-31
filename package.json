@@ -1,0 +1,15 @@
+{
+	"name": "leap-motion-mouse",
+	"title": "Leap Motion mouse controller",
+	"description": "Attempt at controlling your on screen mouse through Node with a Leap Motion",
+	"email": "leap-motion@sharman.io",
+	"author": "Andy Sharman",
+	"homepage": "https://github.com/udjamaflip/node-leap-motion-controller",
+	"repository": "git@github.com:udjamaflip/node-leap-motion-controller.git",
+	"version": "0.0.1",
+	"private": false,
+	"dependencies": {
+		"leapjs": "*",
+		"node-gyp" : "*"
+	}
+}
